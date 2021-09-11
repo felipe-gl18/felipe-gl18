@@ -2,7 +2,7 @@
 - 👦 i'm 17yo.
 - 📚 school : EEEP Mons. José Aloysio Pinto (@ep_monsaloysio).
 - 👀 As an student I’m interested in get more experience.
-- 🌱 I’m currently learning ReactJS and typescript.
+- 🌱 I’m currently learning React.js and typescript.
 
 <!---
 felipe-gl18/felipe-gl18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
