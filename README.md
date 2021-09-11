@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Gadelha Lino (@felip_g.l).
-- 👦 i'm 16yo.
+- 👦 i'm 17yo.
 - 📚 school : EEEP Mons. José Aloysio Pinto (@ep_monsaloysio).
 - 👀 As an student I’m interested in get more experience.
 - 🌱 I’m currently learning ReactJS and typescript.
