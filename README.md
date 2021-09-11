@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felipe Gadelha Lino (@felip_g.l).
+- 👋 Hi, I’m Felipe Gadelha Lino (@felipgl).
 - 👦 i'm 17yo.
 - 📚 school : EEEP Mons. José Aloysio Pinto (@ep_monsaloysio).
 - 👀 As an student I’m interested in get more experience.
