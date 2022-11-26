@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felipe.glino/)
 
 
-![Felipe Lino GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gl18&show_icons=true)
+![Felipe Lino GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gl18&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
