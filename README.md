@@ -6,9 +6,6 @@
 
 ![Felipe Lino GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gl18&show_icons=true&theme=dracula)
 
-## Contribuições no GitHub
-![Felipe Lino GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=felipe-gl18&theme=dracula)
-
 ## Coding main skills
 
 <div style="display: inline_block"><br>
