@@ -13,8 +13,9 @@ Building scalable, high-impact applications with clean architecture and best pra
 ---
 
 ### 📊 GitHub Stats
-![Felipe Lino GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gl18&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gl18&layout=compact&theme=dracula)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-gl18&theme=dracula)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-gl18&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-gl18&theme=dracula)
 
 ---
 
@@ -30,35 +31,3 @@ Building scalable, high-impact applications with clean architecture and best pra
   <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <div style="clear:both"></div>
-
----
-
-### 🚀 Featured Projects
-| Project | Tech Stack | Impact |
-|---------|-----------|--------|
-| **[Project A](#)** | React, Node.js, NestJS, PostgreSQL | Scalable API serving 50k+ users/month, reducing load times by 40% |
-| **[Project B](#)** | Next.js, Fastify, Docker | Built CI/CD pipeline, reduced deployment time by 70% |
-| **[Project C](#)** | React, Node.js, TypeScript | Real-time chat system with WebSocket, used by 10k+ active users |
-
-> 💡 Tip: Each project description focuses on **results and impact**, not just tech used.
-
----
-
-### 🌱 Currently Learning
-- Advanced TypeScript Patterns  
-- Microservices & Event-Driven Architecture  
-- Cloud-native apps with AWS / Docker / Kubernetes  
-
----
-
-### ⚡ Fun Fact
-I’m constantly building personal projects and experimenting with **scalable architectures**, aiming to merge **high performance and clean code**.  
-When I’m not coding, I’m mentoring devs, exploring new frameworks, or contributing to open-source.  
-
----
-
-### 📩 Let’s Collaborate
-I’m open to Fullstack roles, contract work, or mentoring opportunities. Feel free to reach out!  
-
-[![Email Me](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe@example.com)
-
