@@ -15,7 +15,6 @@ Building scalable, high-impact applications with clean architecture and best pra
 ### 📊 GitHub Stats
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-gl18&theme=dracula)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe-gl18&theme=dracula)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-gl18&theme=dracula)
 
 ---
 
